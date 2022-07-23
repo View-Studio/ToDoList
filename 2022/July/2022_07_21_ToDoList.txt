@@ -1,9 +1,0 @@
-1. <이득우의 언리얼 C++ 게임 개발의 정석> 107p 까지 복습 [ !COMPLETE! ]
-
-2. 어제 마무리 못 한 <One Day, One C++> 마무리 (노션 정리) [ !COMPLETE! ]
-
-3. 오늘치 <One Day, One C++> 하기 (노션 정리) [ !COMPLETE! ]
-
-4. 오늘치 <Two Day, One Algorithm> 하기 (노션 정리) - 1/2 [ !COMPLETE! ]
-
-5. <이득우의 언리얼 C++ 게임 개발의 정석> 107p ~ 124p [ #DO NOT COMPLETE# ]
