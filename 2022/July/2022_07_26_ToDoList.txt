@@ -1,7 +1,5 @@
 1. 오늘치 <One Day, One C++> 하기 (노션 정리)  [ !COMPLETE! ]
 
-2. 오늘치 <Two Day, One Algorithm> 하기 (노션 정리) - 1/2
+2. 오늘치 <Two Day, One Algorithm> 하기 (노션 정리) - 1/2  [ !COMPLETE! ]
 
-3. 오늘치 <Two Day, One DataStructure> 하기 (노션 정리) - 1/2
-
-4. <나만의 게임엔진 만들기> 프로젝트 시작 - DEAD-LINE{ 1/30 }
+3. 오늘치 <Two Day, One DataStructure> 하기 (노션 정리) - 1/2  [ !COMPLETE! ]
