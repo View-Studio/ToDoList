@@ -2,6 +2,6 @@
 
 2. 오늘치 <Two Day, One Algorithm> 하기 (노션 정리) (QuickSort) - 2/2 [ !COMPLETE! ]
 
-3. 오늘치 <Two Day, One DataStructure> 하기 (노션 정리) - 1/2 (Stack) [ !COMPLETE! ]
+3. 오늘치 <Two Day, One DataStructure> 하기 (노션 정리) (Stack) - 1/2 [ !COMPLETE! ]
 
 4. <이득우의 언리얼 C++ 게임 개발의 정석> 107p ~ 124p [ #DO NOT COMPLETE# ]
