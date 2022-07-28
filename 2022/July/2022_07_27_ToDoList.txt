@@ -1,5 +1,5 @@
 1. 오늘치 <One Day, One C++> 하기 (노션 정리)  [ !COMPLETE! ]
 
-2. 오늘치 <Two Day, One Algorithm> 하기 (노션 정리) - 2/2
+2. 오늘치 <Two Day, One Algorithm> 하기 (노션 정리) - 2/2  [ #DO NOT COMPLETE# ]
 
-3. 오늘치 <Two Day, One DataStructure> 하기 (노션 정리) - 2/2
+3. 오늘치 <Two Day, One DataStructure> 하기 (노션 정리) - 2/2  [ !COMPLETE! ]
