@@ -4,6 +4,6 @@
 
 3. 오늘치 <One Day, One C++> 하기 (노션 정리) [ !COMPLETE! ]
 
-4. 오늘치 <Two Day, One Algorithm> 하기 (노션 정리) - 1/2 [ !COMPLETE! ]
+4. 오늘치 <Two Day, One Algorithm> 하기 (노션 정리) (QuickSort) - 1/2 [ !COMPLETE! ]
 
 5. <이득우의 언리얼 C++ 게임 개발의 정석> 107p ~ 124p [ #DO NOT COMPLETE# ]
