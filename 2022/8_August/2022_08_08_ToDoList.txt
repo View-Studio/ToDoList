@@ -1,3 +1,5 @@
 1. Rookiss C++ 강의 (vector, list) 직접 구현  
 
-2. 길찾기 알고리즘(우수법) 개선  
+2. 길찾기 알고리즘(우수법) 개선 
+
+3. Serialize, Deserialize 자료정리  
