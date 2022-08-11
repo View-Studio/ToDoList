@@ -1,5 +1,5 @@
 1. Rookiss C++ 강의 듣기 - 12/39  [ !COMPLETE! ]
 
-2. Rookiss C++ 강의 (vector, list) 직접 구현
+2. Rookiss C++ 강의 (vector, list) 직접 구현  [ #DO NOT COMPLETE# ]
 
-3. Serialize, Deserialize 자료정리
+3. Serialize, Deserialize 자료정리  [ #DO NOT COMPLETE# ]

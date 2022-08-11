@@ -1,0 +1,5 @@
+1. Rookiss C++ 강의 (vector, list) 직접 구현
+
+2. 정적 할당, 동적 할당 자료정리
+
+3. Serialize, Deserialize 자료정리
