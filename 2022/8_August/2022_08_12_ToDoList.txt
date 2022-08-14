@@ -1,4 +1,4 @@
-1. Rookiss C++ 강의 (vector, list) 직접 구현 (vector 완료) [ #DO NOT COMPLETE# ]
+1. Rookiss C++ 강의 list 직접 구현 [ #DO NOT COMPLETE# ]
 
 2. 정적 할당, 동적 할당 자료정리  [ #DO NOT COMPLETE# ]
 
