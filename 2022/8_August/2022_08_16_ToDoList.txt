@@ -1,5 +1,5 @@
-1. 2022_08_13 에 내가 구현한 vector 보강하기 (erase 메서드 추가)
+1. 2022_08_13 에 내가 구현한 vector 보강하기 (erase 메서드 추가)  [ #DO NOT COMPLETE# ]
 
-2. stream, buffer 공부하고 자료정리
+2. stream, buffer 공부하고 자료정리  [ #DO NOT COMPLETE# ]
 
-3. 1. Rookiss C++ 강의 듣기 - 12/39
+3. Rookiss C++ 강의 듣기 - 14/39  [ !COMPLETE! ]
